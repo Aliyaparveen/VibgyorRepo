@@ -18,7 +18,7 @@ Our goal is to locate any trees around your neighbourhood on geolocation. Throug
 
 ## Demo video
 
-[![Watch the video](https://github.com/Call-for-Code/Liquid-Prep/blob/master/images/readme/IBM-interview-video-image.png)](https://www.dailymotion.com/video/x821wec)
+[![Watch the video](https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Photos/VibgyorTeam.PNG)](https://www.dailymotion.com/video/x821wec)
 
 ## The architecture
 
@@ -53,6 +53,3 @@ https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Tree_Monitoring_Applicatio
   - Go to root
         python trees.py
 
-## Live demo
-
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/).
