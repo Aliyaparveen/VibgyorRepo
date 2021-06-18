@@ -23,6 +23,8 @@ Our goal is to locate any trees around your neighbourhood on geolocation. Throug
 ## The architecture
 
 1. Please refer Architecture diagram in attached document or Powerpoint Presentation.
+https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Tree%20Monitoring%20Application.docx
+https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Tree_Monitoring_Application_PresentationSlides.pptx
 
 ## Project roadmap
 
