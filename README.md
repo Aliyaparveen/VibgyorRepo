@@ -35,6 +35,8 @@ The project currently does the following things.
 - QRCode to scan and get information of the tree.
 
 Please refer our schedule for this project in Project RoadMap File in the documentation or Powerpoint Presentation.
+https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Tree%20Monitoring%20Application.docx
+https://github.com/Aliyaparveen/VibgyorRepo/blob/main/Tree_Monitoring_Application_PresentationSlides.pptx
 
 ## Getting started
   ## Dependencies
